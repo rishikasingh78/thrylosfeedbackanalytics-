@@ -1,0 +1,8 @@
+- [x] Add secure password-only access to the existing dashboard and protect its data.
+- [x] Add Open Dashboard and return-to-feedback navigation without changing the form.
+- [x] Configure dashboard secrets and verify access, navigation, and existing tests.
+- [x] Replace dashboard service-key access with a publishable-key client and restricted column permissions.
+- [x] Verify the 21 existing records, dashboard analytics, private-field protection, and public submission permissions.
+- [x] Configure exported Netlify/Vercel targets and document environment setup.
+- [x] Verify VITE-only configuration tests, database privacy, and existing dashboard behavior.
+- [ ] Verify actual Netlify/Vercel production deployments (requires an external host build; this environment only runs the automatic Lovable production checker).
